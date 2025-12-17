@@ -36,4 +36,5 @@ dpi = "120-640dpi"
 [Messenger]
 uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
 arch = "all"
-excluded-patches = "'Translate message button' 'Some other patch'"
+patches-source = "revanced/revanced-patches"
+cli-source = "revanced/revanced-cli"
