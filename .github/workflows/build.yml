@@ -25,6 +25,7 @@ jobs:
           - id: "Reddit"
           - id: "Spotify"
           - id: "X"
+          - id: "Messenger"
 
     steps:
       - uses: actions/setup-java@v5
