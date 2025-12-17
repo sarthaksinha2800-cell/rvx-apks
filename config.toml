@@ -32,3 +32,8 @@ patches-source = "crimera/piko"
 rv-brand = "Piko"
 included-patches = "'Dynamic color'"
 dpi = "120-640dpi"
+
+[Messenger]
+apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger"
+arch = "all"
+excluded-patches = "'Translate message button' 'Some other patch'"
